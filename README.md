@@ -1,7 +1,5 @@
 [![progress-banner](https://backend.codecrafters.io/progress/git/2a2dea31-d790-4451-8867-4e72899b1325)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
-**Note**: If you're viewing this repo on GitHub, head over to
-[codecrafters.io](https://codecrafters.io) to try the challenge.
 
 # Passing the first stage
 
